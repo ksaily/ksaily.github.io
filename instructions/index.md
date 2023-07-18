@@ -8,18 +8,20 @@ The app will present you with daily questionnaires that are used to see how accu
 
 You can download TypeAware app from this URL: {INSERT_URL}.
 
-**Instructions after download**
+**Instructions for download:**
+
 *Because the app is not published in Google Play Store, you might need to ignore some warnings:*
 
-On your device, go to Settings.
-Tap Apps & notifications > Advanced.
-Tap Special app access.
-Tap Install unknown apps.
-Tap the browser from where you will download the APK, such as Chrome.
-If prompted, toggle Allow from this source on.
-When trying to install, click on ‘more details’ and ‘install anyway’.
+1. On your device, go to Settings.
+2. Tap Apps & notifications > Advanced.
+3. Tap Special app access.
+4. Tap Install unknown apps.
+5. Tap the browser from where you will download the APK, such as Chrome.
+6. If prompted, toggle Allow from this source on.
+7. When attempting to install, click on ‘more details’ and ‘install anyway’.
 
 *Please make sure to also download the Fitbit app and create a user account. Remember to sync the device on Fitbit app so that TypeAware can also retrieve this data.*
+
 
 TypeAware app does not need to be open on your phone, it will still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off. Same thing applies if you can not see your typing data on some day.
 It is important to make sure that the *accessibility permission (enable accessibility_service in the settings) is enabled* and *battery optimization is disabled* for TypeAware, because otherwise the app can not record any data.
