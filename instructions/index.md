@@ -4,6 +4,7 @@
 
 TypeAware is a mobile app designed for data collection for research purposes. The app will collect your typing metrics such as typing speed between characters, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
 TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
+The app will present the user with daily questionnaires that are used to see how well users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. 
 
 You can download TypeAware app from this URL: {INSERT_URL}. 
 *Because the app is not published in Google Play Store, you might need to ignore some warnings:*
@@ -18,22 +19,23 @@ When trying to install, click on ‘more details’ and ‘install anyway’.
 
 *Please make sure to also download the Fitbit app and create a user account. Remember to sync the device on Fitbit app so that TypeAware can also retrieve this data.*
 
-**What should happen when opening the app for the first time:**
-1. You will be asked consent for collecting your typing metrics and participating in the study.
-2. You will be asked to input your Prolific ID.
-3. You will be directed to onboarding.
-4. Once you have finished onboarding, you will be prompted to set the accessibility permission (enable accessibility_service in the settings) and disable battery optimization for TypeAware.
-5. You can login with your Fitbit account on the home page to view your sleep data (remember to sync your data in the Fitbit app so TypeAware can retrieve it).
-6. You can change the date but in the beginning you should not have any typing data showing because you have only just installed the app.
-7. In the charts page you can view a more detailed look of your typing and possible sleep data.
-8. On the second day (day after download), on opening the app you should be presented with a daily questionnaire before you can see the home screen. You should not be able to see the home screen or any other data before you have answered the questionnaire. If you have not answered the questionnaire before 6pm, you should receive a reminder notification to answer it.
-9. After completing 5 questionnaires (5 days), the questions should change and you should be able to view your data at any time and choose when to answer the questionnaire.
-10. After completing 10 questionnaires (10 days) the app should announce that you have completed the study and present you with an end questionnaire.
-11. After finishing all the questionnaires, you will receive your completion code in the app and you can enter it to Prolific. You can also answer another end questionnaire if you wish. 
+TypeAware app does not need to be open on your phone, it will still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off. Same thing applies if you can not see your typing data on some day.
+It is important to make sure that the accessibility permission (enable accessibility_service in the settings) is enabled and battery optimization is disabled for TypeAware, because otherwise the app can not record any data.
 
-TypeAware does not need to be opened, it should still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off.
+
+In the charts section you can have a more detailed look of your typing and sleep metrics. 
+On the bottom x-axis you can see the time of the day the data was recorded.
+Because the focus of the study is to see how users can learn to estimate their own typing behaviour, it is beneficial to take a closer look at your own data on a daily basis. The best way to do this is to look at the charts. 
+
+Please note that if you do not receive daily notifications to complete the questionnaires, you could also set up your own alarm so you will remember to complete the questionnaires once per day. 
+After answering 10 questionnaires, you will receive a compensation of 10£ and a completion code that you can enter to Prolific. 
+If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it from this address: 
+
+
 
 Contact information:
 
 Katri Säily
 email: katri.saily@oulu.fi
+Aku Visuri
+email: aku.visuri@oulu.fi
