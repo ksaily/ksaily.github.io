@@ -2,7 +2,7 @@
 
 *Welcome to the study and thank you for participating!*
 
-TypeAware is a mobile app designed for data collection for research purposes. The app will collect your typing metrics such as typing speed between characters, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
+TypeAware is a mobile app designed for data collection for research purposes. The app will collect your typing metrics such as typing speed of words, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
 TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
 The app will present you with daily questionnaires that are used to see how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. This is a part of a larger study to build sleep recommender platforms aiming to improve people's daily habits. 
 
@@ -39,6 +39,10 @@ If you decide to answer the more extensive final questionnaire and receive 5 mor
 Contact information:
 
 Katri Säily
+
 email: katri.saily@oulu.fi
+
+
 Aku Visuri
+
 email: aku.visuri@oulu.fi
