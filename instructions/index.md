@@ -2,9 +2,10 @@
 
 *Welcome to the study and thank you for participating!*
 
-TypeAware is a mobile app designed for data collection for research purposes. The app will collect your typing metrics such as typing speed of words, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
+TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
+
 TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
-The app will present you with daily questionnaires that are used to see how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. This is a part of a larger study to build sleep recommender platforms aiming to improve people's daily habits. 
+The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. 
 
 You can download TypeAware app from this URL: {INSERT_URL}.
 
@@ -27,11 +28,13 @@ You can download TypeAware app from this URL: {INSERT_URL}.
 
 
 TypeAware app does not need to be open on your phone, it will still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off. Same thing applies if you can not see your typing data on some day.
-It is important to make sure that the *accessibility permission (enable accessibility_service in the settings) is enabled* and *battery optimization is disabled* for TypeAware, because otherwise the app can not record any data.
+It is important to make sure that the *accessibility permission* (enable accessibility_service in the settings) is enabled and *battery optimization* is disabled for TypeAware, because otherwise the app can not record any data.
 
-<img src="" width=50% height=50%>
+**In the charts section you can have a more detailed look of your typing and sleep metrics.**
 
-In the charts section you can have a more detailed look of your typing and sleep metrics. 
+
+<img src="Screenshot_20230720-042149.jpg" align="left" width=25% height=25%> 
+
 On the bottom x-axis you can see the time of the day the data was recorded.
 Because the focus of the study is to see how users can learn to estimate their own typing behaviour, *it is beneficial to take a closer look at your own data on a daily basis.* The best way to do this is to study the charts. 
 
