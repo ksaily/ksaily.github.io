@@ -29,6 +29,7 @@ You can download TypeAware app from this URL: {INSERT_URL}.
 TypeAware app does not need to be open on your phone, it will still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off. Same thing applies if you can not see your typing data on some day.
 It is important to make sure that the *accessibility permission (enable accessibility_service in the settings) is enabled* and *battery optimization is disabled* for TypeAware, because otherwise the app can not record any data.
 
+<img src="" width=50% height=50%>
 
 In the charts section you can have a more detailed look of your typing and sleep metrics. 
 On the bottom x-axis you can see the time of the day the data was recorded.
