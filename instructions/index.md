@@ -33,24 +33,29 @@ It is important to make sure that the *accessibility permission* (enable accessi
 **In the charts section you can have a more detailed look of your typing and sleep metrics.**
 
 
-<img src="/docs/assets/Screenshot_20230720-042149.jpg" width="25%" height="25%">
+<img src="/docs/assets/Screenshot_20230720-042149.jpg" align="left" width="25%" height="25%">
 
 On the bottom x-axis you can see the time of the day the data was recorded.
 Because the focus of the study is to see how users can learn to estimate their own typing behaviour, *it is beneficial to take a closer look at your own data on a daily basis.* The best way to do this is to study the charts. 
 
 **Please note that if you do not receive daily notifications to complete the questionnaires, you could also set up your own alarm so you will remember to complete the questionnaires once per day.**
 After answering 10 questionnaires, you will receive a compensation of 10£ and a completion code that you can enter to Prolific. 
-If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it from this address: 
+If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it from this address: https://forms.gle/1KMJNgUXcyadjseG6
+
 Please only fill out the final questionnaire *after* you are finished with the other parts of the study.
 
 
 Contact information:
 
-Katri Säily
+Katri Säily 
 
-email: katri.saily@oulu.fi
+Research Assistant, University of Oulu
+
+katri.saily@oulu.fi
 
 
 Aku Visuri
 
-email: aku.visuri@oulu.fi
+Post-Doctoral Researcher, University of Oulu
+
+aku.visuri@oulu.fi
