@@ -33,7 +33,7 @@ It is important to make sure that the *accessibility permission* (enable accessi
 **In the charts section you can have a more detailed look of your typing and sleep metrics.**
 
 
-<img src="Screenshot_20230720-042149.jpg" align="left" width=25% height=25%> 
+<img src="/docs/assets/Screenshot_20230720-042149.jpg" width="25%" height="25%">
 
 On the bottom x-axis you can see the time of the day the data was recorded.
 Because the focus of the study is to see how users can learn to estimate their own typing behaviour, *it is beneficial to take a closer look at your own data on a daily basis.* The best way to do this is to study the charts. 
