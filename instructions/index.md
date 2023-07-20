@@ -1,6 +1,6 @@
-## Instructions for TypeAware study participants
+## Instructions for TypeAware pilot study participants
 
-*Welcome to the study and thank you for participating!*
+*Welcome to the study and thank you for participating! This is a pilot study with fewer participants to make sure that everything is working as intended. If you experience any issues, please contact us by email, which you can find at the bottom of this page.*
 
 TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
 
