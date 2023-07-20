@@ -18,9 +18,12 @@ You can download TypeAware app from this URL: {INSERT_URL}.
 4. Tap Install unknown apps.
 5. Tap the browser from where you will download the APK, such as Chrome.
 6. If prompted, toggle Allow from this source on.
+
 7. When attempting to install, click on ‘more details’ and ‘install anyway’.
 
-*Please make sure to also download the Fitbit app and create a user account. Remember to sync the device on Fitbit app so that TypeAware can also retrieve this data.*
+*Please make sure to also download the Fitbit app and create a user account. Remember to sync the device on Fitbit app so that TypeAware can also retrieve this data.* 
+
+**NOTE:** When logging in with your Fitbit account on TypeAware, if the browser asks whether to open the redirect link with the browser or TypeAware, choose TypeAware.
 
 
 TypeAware app does not need to be open on your phone, it will still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off. Same thing applies if you can not see your typing data on some day.
@@ -34,6 +37,7 @@ Because the focus of the study is to see how users can learn to estimate their o
 **Please note that if you do not receive daily notifications to complete the questionnaires, you could also set up your own alarm so you will remember to complete the questionnaires once per day.**
 After answering 10 questionnaires, you will receive a compensation of 10£ and a completion code that you can enter to Prolific. 
 If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it from this address: 
+Please only fill out the final questionnaire *after* you are finished with the other parts of the study.
 
 
 Contact information:
