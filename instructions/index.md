@@ -8,7 +8,7 @@ TypeAware will not collect passwords or the contents of what you have written, t
 The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. To achieve the best end result, you should study all the data that TypeAware is providing to you and try to find meaningful connections between your typing and sleeping habits.
 
 
-### Instructions for download:
+#### Instructions for download:
 
 You can download TypeAware app from this URL: {INSERT_URL}.
 
@@ -22,7 +22,7 @@ You can download TypeAware app from this URL: {INSERT_URL}.
 6. If prompted, toggle Allow from this source on.
 7. When attempting to install, click on ‘more details’ and ‘install anyway’.
 
-#### Troubleshoot
+### Troubleshoot
 
 *Please make sure to also download the Fitbit app and create a user account. Remember to sync the device on Fitbit app so that TypeAware can also retrieve this data.* 
 
@@ -36,19 +36,23 @@ It is important to make sure that the *accessibility permission* (enable accessi
 **In the charts section you can have a more detailed look of your typing and sleep metrics.**
 
 
-<img src="/docs/assets/Screenshot_20230720-042149.jpg" align="left" width="25%" height="25%">
+<img src="/docs/assets/Screenshot_20230720-042149.jpg" align="left" width="26%" height="26%">
 
 On the bottom x-axis you can see the time of the day the data was recorded.
 Because the focus of the study is to see how users can learn to estimate their own typing behaviour, *it is beneficial to take a closer look at your own data on a daily basis.* The best way to do this is to study the charts. 
 
-**Please note that if you do not receive daily notifications to complete the questionnaires, you could also set up your own alarm so you will remember to complete the questionnaires once per day.**
+#### Questionnaires 
+
+
+*Please note that if you do not receive daily notifications to complete the questionnaires, you could also set up your own alarm so you will remember to complete the questionnaires once per day.*
+
 After answering 10 questionnaires, you will receive a compensation of 10£ and a completion code that you can enter to Prolific. 
 If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it by <a href="https://forms.gle/1KMJNgUXcyadjseG6"> clicking here</a>. 
 
 Please only fill out the final questionnaire *after* you are finished with the other parts of the study.
 
 
-Contact information:
+#### Contact information:
 
 Katri Säily 
 
