@@ -1,15 +1,16 @@
-**Instructions for TypeAware study participants**
+## Instructions for TypeAware study participants
 
 *Welcome to the study and thank you for participating!*
 
 TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
 
 TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
-The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. 
+The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. To achieve the best end result, you should study all the data that TypeAware is providing to you and try to find meaningful connections between your typing and sleeping habits.
+
+
+### Instructions for download:
 
 You can download TypeAware app from this URL: {INSERT_URL}.
-
-**Instructions for download:**
 
 *Because the app is not published in Google Play Store, you might need to ignore some warnings:*
 
@@ -19,16 +20,18 @@ You can download TypeAware app from this URL: {INSERT_URL}.
 4. Tap Install unknown apps.
 5. Tap the browser from where you will download the APK, such as Chrome.
 6. If prompted, toggle Allow from this source on.
-
 7. When attempting to install, click on ‘more details’ and ‘install anyway’.
+
+#### Troubleshoot
 
 *Please make sure to also download the Fitbit app and create a user account. Remember to sync the device on Fitbit app so that TypeAware can also retrieve this data.* 
 
 **NOTE:** When logging in with your Fitbit account on TypeAware, if the browser asks whether to open the redirect link with the browser or TypeAware, choose TypeAware.
 
-
 TypeAware app does not need to be open on your phone, it will still function in the background. If you do not see any typing data appear in the app after download and typing for half an hour or so, it can be worth it to try and use mobile data (if that means no extra cost for you) or turn your WiFi router on and off. Same thing applies if you can not see your typing data on some day.
 It is important to make sure that the *accessibility permission* (enable accessibility_service in the settings) is enabled and *battery optimization* is disabled for TypeAware, because otherwise the app can not record any data.
+
+### Charts provide more information
 
 **In the charts section you can have a more detailed look of your typing and sleep metrics.**
 
@@ -40,7 +43,7 @@ Because the focus of the study is to see how users can learn to estimate their o
 
 **Please note that if you do not receive daily notifications to complete the questionnaires, you could also set up your own alarm so you will remember to complete the questionnaires once per day.**
 After answering 10 questionnaires, you will receive a compensation of 10£ and a completion code that you can enter to Prolific. 
-If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it from this address: https://forms.gle/1KMJNgUXcyadjseG6
+If you decide to answer the more extensive final questionnaire and receive 5 more pounds, you can find it by <a href="https://forms.gle/1KMJNgUXcyadjseG6"> clicking here</a>. 
 
 Please only fill out the final questionnaire *after* you are finished with the other parts of the study.
 
@@ -59,3 +62,4 @@ Aku Visuri
 Post-Doctoral Researcher, University of Oulu
 
 aku.visuri@oulu.fi
+
