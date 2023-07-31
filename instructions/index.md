@@ -10,7 +10,7 @@ The app will present you with daily questionnaires that are used to study how ac
 
 #### Instructions for download:
 
-You can download TypeAware app from <a href="https://drive.google.com/file/d/14leh8GgBoVQ8d8H_tzmSiG21dUHGYdVG/view?usp=sharing">THIS LINK</a>.
+You can download TypeAware app from <a href="https://drive.google.com/uc?export=download&id=14leh8GgBoVQ8d8H_tzmSiG21dUHGYdVG">THIS LINK</a>.
 
 *Because the app is not published in Google Play Store, you might need to ignore some warnings:*
 
