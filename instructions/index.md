@@ -2,6 +2,8 @@
 
 *Welcome to the study and thank you for participating! This is a pilot study with fewer participants to make sure that everything is working as intended. If you experience any issues, please contact us by email, which you can find at the bottom of this page.*
 
+**Before beginning the study, please make sure that you have access to a Fitbit device with sleep tracking capabilities.**
+
 TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
 
 TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
