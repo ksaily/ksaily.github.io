@@ -7,7 +7,7 @@
 TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
 
 TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
-The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. To achieve the best end result, you should study all the data that TypeAware is providing to you and try to find meaningful connections between your typing and sleeping habits.
+The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. You will receive the first questionnaire the following day after downloading the app, so not on the first day. To achieve the best end result, you should study all the data that TypeAware is providing to you and try to find meaningful connections between your typing and sleeping habits.
 
 
 #### Instructions for download:
