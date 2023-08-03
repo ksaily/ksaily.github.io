@@ -1,13 +1,12 @@
 ## Instructions for TypeAware pilot study participants
 
-*Welcome to the study and thank you for participating! This is a pilot study with fewer participants to make sure that everything is working as intended. If you experience any issues, please contact us by email, which you can find at the bottom of this page.*
+*Welcome to the study and thank you for participating!*
 
-**Before beginning the study, please make sure that you have access to a Fitbit device with sleep tracking capabilities.**
+**Before beginning the study, please note that participation in this study is only available with a Fitbit device with sleep tracking capabilities, as it is currently the only API integration we have implemented to collect sleep data.**
 
-TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using.
+TypeAware is a mobile app designed for data collection for research purposes. It is a part of a larger study where the purpose is to build a sleep recommender platform aiming to improve the overall wellbeing and sleep of users. In addition to your sleep metrics, this app will collect your typing metrics such as typing speed, errors made (deleting characters), at what time of the day you are typing and what app you are currently using. TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
 
-TypeAware will not collect passwords or the contents of what you have written, the characters you write are replaced with a’s. 
-The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. You will receive the first questionnaire the following day after downloading the app, so not on the first day. To achieve the best end result, you should study all the data that TypeAware is providing to you and try to find meaningful connections between your typing and sleeping habits.
+The duration of this study is 11 days, where you are required to answer a short in-app survey each day. The app will present you with daily questionnaires that are used to study how accurately users can learn to estimate their own typing and/or sleep behaviour during the two-week study period. You will receive the first questionnaire the following day after downloading the app, so not on the first day. To achieve the best end result, you should study all the data that TypeAware is providing to you and try to find meaningful connections between your typing and sleeping habits.
 
 
 #### Instructions for download:
