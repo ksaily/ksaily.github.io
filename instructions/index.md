@@ -1,4 +1,4 @@
-## Instructions for TypeAware pilot study participants
+## Instructions for TypeAware study participants
 
 *Welcome to the study and thank you for participating!*
 
